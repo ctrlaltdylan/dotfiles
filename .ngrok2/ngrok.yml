@@ -1,0 +1,11 @@
+authtoken: 1QVpgjakM2i23e7oSbZq3dk340s_5J35pyR3VCfwzuece7bR8
+remote_management: null
+tunnels:
+  verdict:
+    proto: http
+    addr: 3000
+    subdomain: verdict
+  vsocket:
+    proto: http
+    addr: 4001
+    subdomain: verdict-socket
